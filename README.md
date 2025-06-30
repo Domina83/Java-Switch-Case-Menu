@@ -43,8 +43,7 @@ You ordered Pasta with sauce it costs RS:299
 ```bash
 javac pkgswitch/pkgcase/SwitchCase.java
 
-Run:
-
+3. Run:
 java pkgswitch.pkgcase.SwitchCase
 
 🌱 What I Learned
